@@ -1,0 +1,9 @@
+Hi Sir/Ma'am,
+
+Hope you are doing well!
+
+We were able to enrich the data in your datasource from atom with the attribute fill rate of 70 and cardinality of 99.88. We can confirm that 7853 ows are affectd by ths enrichment.
+Hope this data is more efficient to you now.
+
+Regards,
+Arushi
